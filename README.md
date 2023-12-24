@@ -1,6 +1,7 @@
+<img  width="100%" height="400px" src="https://camo.githubusercontent.com/5e7c261a762b0dc5038bed17be8f7de034ce8ea4f1c962b276a1360fe3fb17b6/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4334453132415145724a7359617944757456672f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313635313833353036343236303f653d3231343734383336343726763d6265746126743d5044374e47776b32566833784f4139677866387555734c7341742d4276616b31486d3372756f4753787559" alt="">
 <h1 align="center">Hi 👋, I'm Vivek Madiyan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right"  width="400" src="https://camo.githubusercontent.com/f8d758b7f3280af27be3fe8313dccea58c4a3e207d865bbc36d82d470b4a918d/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a7a566e574a7479474f585f6b5549446d3663634366512e676966" alt="coading">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekmadiyan&label=Profile%20views&color=0e75b6&style=flat" alt="vivekmadiyan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vivekmadiyan7" target="blank"><img src="https://img.shields.io/twitter/follow/vivekmadiyan7?logo=twitter&style=for-the-badge" alt="vivekmadiyan7" /></a> </p>

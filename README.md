@@ -1,4 +1,4 @@
-<img  width="100%" height="300px" src="https://media.licdn.com/dms/image/C4E12AQE1HWdIDDkyEA/article-cover_image-shrink_720_1280/0/1646907885048?e=1710374400&v=beta&t=qSYeFt_hhmbmCGMa-w_IPHNMevuOxeN6mqYGywLfPaQ" alt="">
+<img  width="100%" height="300px" src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif" alt="">
 <h1 align="center">Hi 👋, I'm Vivek Madiyan</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 <img align="right"  width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="coading">

@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/vivekmadiyan7" target="blank"><img src="https://img.shields.io/twitter/follow/vivekmadiyan7?logo=twitter&style=for-the-badge" alt="vivekmadiyan7" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT ReactJs**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,ReactJs**
 
 - 📫 How to reach me **vivekmadiyan3536@gmail.com**
 
